@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.title1{
+ 
+    font-style: italic;
+}
+.title2{
+ 
+    text-decoration:underline;
+}
+.title3{
+ 
+    text-decoration:line-through;
+}
+.title1, .title2, .title3{
+    color:red;
+}
